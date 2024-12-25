@@ -13,5 +13,5 @@ This project involves building a **Sentiment Analysis** model to predict whether
 
 ### 1. Clone this repository:
 ```bash
-git clone <git_url>
+git clone https://github.com/sahith-reddy1999/sentiment-analysis.git
 cd sentiment-analysis
