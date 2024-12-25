@@ -2,6 +2,8 @@
 
 This project involves building a **Sentiment Analysis** model to predict whether a movie review is **positive** or **negative**. The dataset used is the [IMDB Dataset of 50K Movie Reviews](https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews) from Kaggle, and the model is built using **LSTM (Long Short-Term Memory)** for natural language processing.
 
+![Movie Image](assets/images/movie.jpg)
+
 ## Features
 
 - **Dataset**: 50,000 IMDB movie reviews labeled as positive or negative.
